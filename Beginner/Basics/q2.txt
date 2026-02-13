@@ -1,0 +1,52 @@
+Q2) Where is JavaScript used?
+
+
+Ans) 
+
+    JavaScript is a full-stack language today because it can be used both on the client side and server side.
+
+
+      [
+        JavaScript is mainly used for web development to create interactive and dynamic websites.
+        It is used on the frontend for UI interactions and on the backend using Node.js.
+        It is also used in mobile app development, game development, and building desktop applications.
+      ]
+
+      [
+        JavaScript is used in frontend development for DOM manipulation, event handling, and API integration.
+        In backend development, it is used with Node.js to build server-side applications.
+        It is also used in mobile app development using frameworks like React Native, and in desktop apps using Electron.
+        Additionally, JavaScript is used for game development and browser extensions.
+      ]
+
+
+      📌 Main Areas Where JavaScript is Used
+
+
+                1️⃣ Frontend Development
+
+                        Interactive UI
+                        Form validation
+                        API calls
+                        DOM manipulation
+                        (React, Angular, Vue)
+
+                2️⃣ Backend Development
+
+                        Server-side logic
+                        REST APIs
+                        Database handling
+                        (Node.js, Express)
+
+                3️⃣ Mobile Apps
+
+                        Cross-platform apps
+                        (React Native)
+
+                4️⃣ Desktop Applications
+
+                        Apps like VS Code use Electron
+
+                5️⃣ Game Development
+
+                        Browser-based games

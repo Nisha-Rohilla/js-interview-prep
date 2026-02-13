@@ -1,0 +1,21 @@
+Q1)  What is JavaScript?
+
+
+Ans)
+       (Javascript is a high-level, interpreted programming language used to make web pages interactive.
+        It runs in the browser and also on the server using Node.js.
+        It helps in handling dynamic content, DOM manipulation, events, APIs, and building modern web applications.)
+
+        (
+            JavaScript is a high-level, dynamically typed, interpreted programming language mainly used for web development.
+            It allows us to create interactive and dynamic web pages by manipulating the DOM, handling events, and making API calls.
+            With technologies like Node.js, it can also be used for backend development.
+            I have used JavaScript in building React-based frontend applications.
+        )
+
+        (
+            JavaScript is a versatile, high-level, prototype-based scripting language primarily used for web development.
+            It enables dynamic behavior on websites through DOM manipulation, event handling, asynchronous programming, and API integration.
+            With ES6+ features like arrow functions, promises, async/await, and modules, modern JavaScript supports building scalable applications.
+            I have applied JavaScript concepts while working on React projects for managing state, handling APIs, and building reusable components.
+        )

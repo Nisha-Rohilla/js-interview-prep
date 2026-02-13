@@ -1,0 +1,16 @@
+Q3) Is JavaScript a compiled or interpreted language?
+
+Ans)  
+    In short
+            JavaScript is primarily an interpreted language, but modern JavaScript engines use Just-In-Time (JIT) compilation to improve performance.
+
+    In detailed
+            Traditionally, JavaScript is considered an interpreted language because the code runs directly in the browser without manual compilation.
+            However, modern JavaScript engines like Google’s V8 use Just-In-Time (JIT) compilation, where the code is compiled into machine code at runtime to improve performance.
+            So technically, JavaScript uses a combination of interpretation and JIT compilation.
+
+            EXAMPLE
+                    -The browser's JavaScript engine first reads the JavaScript code.
+                    -Then it parses the code and converts it into an internal representation.
+                    -After that, the JIT compiler compiles the code into machine code at runtime.
+                    -This improves performance and makes execution faster.
