@@ -1,0 +1,28 @@
+Q17) What is an expression in JavaScript?
+
+Ans) 
+    An expression in JavaScript is any piece of code that produces a value.
+    It can be a value, a variable, or a combination of values and operators.
+
+    🔹 Examples of Expressions
+            5 + 3          // arithmetic expression → 8
+            "Hello"       // string expression
+            x > 10        // boolean expression
+            age * 2       // expression using variable
+
+    🔹 Expression vs Statement (Quick Difference)
+            Expression	                        Statement
+            Produces a value	                Performs an action
+            Can be part of a statement	        Usually stands alone
+            Example: 5 + 2	                    Example: let x = 5;
+
+    Example:
+
+    let x = 5 + 2; // 5 + 2 is an expression
+   
+    An expression is a piece of JavaScript code that evaluates to a value.
+
+    
+    🔥If asked to explain with one line:
+
+        Statements do something, expressions produce something.

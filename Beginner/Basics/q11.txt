@@ -1,0 +1,14 @@
+Q11) What is the difference between var, let, and const?
+
+Ans)  
+
+✅ Difference between var, let, and const
+
+    Feature	            var	                        let	                                const
+
+    Scope	            Function-scoped	            Block-scoped	                    Block-scoped
+    Redeclaration	    Allowed	                    Not allowed	                        Not allowed
+    Reassignment	    Allowed	                    Allowed	                            ❌ Not allowed
+    Hoisting	        Hoisted & initialized       Hoisted but not initialized	        Hoisted but not initialized
+                        as undefined	
+    Use case	        Old JavaScript code	        Variables that change	            Constants (fixed values)

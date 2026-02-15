@@ -1,0 +1,21 @@
+Q8) What are comments in JavaScript?
+
+Ans) 
+    Comments in JavaScript are used to explain the code and make it easier to understand.
+    They are ignored by the JavaScript engine and do not affect the execution of the program.
+
+    🔹 Types of Comments in JavaScript
+        1️⃣ Single-line Comment
+                Used for short explanations.
+                        // This is a single-line comment
+                        console.log("Hello");
+
+        
+        2️⃣ Multi-line Comment
+                Used for longer explanations or documentation.
+
+                        /*
+                        This is a multi-line comment
+                        used to explain the code
+                        */
+                        console.log("Hello");

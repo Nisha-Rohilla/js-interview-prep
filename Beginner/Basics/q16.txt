@@ -1,0 +1,18 @@
+Q16) What is a statement in JavaScript?
+
+Ans) 
+    A statement in JavaScript is an instruction that tells the browser what action to perform.
+    Each statement represents a step in the program and is executed line by line.
+
+    🔹 Example
+
+        let x = 10;        // variable declaration statement
+        console.log(x);   // output statement
+
+    
+    🔹 Types of Statements in JavaScript
+
+            Declaration statements → let, const, var
+            Conditional statements → if, else, switch
+            Looping statements → for, while, do...while
+            Control statements → break, continue, return

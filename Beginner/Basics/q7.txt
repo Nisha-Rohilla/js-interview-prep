@@ -1,0 +1,23 @@
+Q7) How do you add JavaScript to an HTML page?
+
+Ans) 
+    We can add JavaScript to an HTML page in three ways:
+        [Inline JavaScript, Internal JavaScript, and External JavaScript]
+
+        1️⃣ Inline JavaScript
+                <button onclick="alert('Hello!')"> Click Me </button>
+
+        2️⃣ Internal JavaScript
+                JavaScript is written inside the <script> tag within the HTML file
+
+                <script>
+                    console.log("Hello JavaScript");
+                </script>
+        
+        3️⃣ External JavaScript
+                JavaScript is written in a separate .js file and linked to the HTML file.
+
+                <script src="app.js"></script>
+
+        
+        External JavaScript is the most preferred way because it keeps HTML and JavaScript separate and makes the code easier to maintain.

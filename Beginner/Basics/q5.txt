@@ -1,0 +1,7 @@
+Q5) What is ECMAScript?
+
+
+Ans)  ECMAScript is the standardized specification maintained by ECMA International that defines the core features of JavaScript.
+      JavaScript follows this specification, which ensures consistency across different JavaScript engines.
+      New ECMAScript versions like ES6 introduced features such as let, const, arrow functions, classes, and modules.
+      This standard defines the syntax, data types, objects, and core features of JavaScript so that all browsers follow the same rules         

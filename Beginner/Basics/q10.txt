@@ -1,0 +1,20 @@
+Q10) How do you declare a variable in JavaScript?
+
+Ans)
+    In JavaScript, variables are declared using the keywords var, let, and const.
+
+    🔹 Ways to Declare Variables
+        1️⃣ Using var
+                (Old way, function-scoped)
+                    var name = "Nisha";
+        2️⃣ Using let
+                (Block-scoped, modern & recommended)
+                    let age = 22;
+        3️⃣ Using const
+                (Block-scoped, value cannot be reassigned)
+                    const country = "India";
+
+📌 Key Points for Interview
+        var → function-scoped
+        let → block-scoped
+        const → block-scoped and cannot be reassigned

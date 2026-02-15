@@ -1,0 +1,33 @@
+Q15) What is the difference between alert(), confirm(), and prompt()?
+
+Ans) 
+
+        ✅ Difference between alert(), confirm(), and prompt()
+                Function	    Purpose	                            User Interaction	            Return Value
+                alert()	        Displays a message	                OK button only	                undefined
+                confirm()	    Asks user to confirm an action	    OK & Cancel buttons	            true (OK) / false (Cancel)
+                prompt()	    Takes input from the user	        Input field + OK & Cancel	    User input (string) or null
+        
+        
+        🔹 Examples
+            alert()
+                alert("Welcome to the website");
+
+            confirm()
+                let result = confirm("Are you sure?");
+                console.log(result);
+
+            prompt()
+                let name = prompt("Enter your name");
+                console.log(name);
+
+
+    📌 Key Interview Points
+
+            All three are browser dialog boxes
+            They block code execution until the user responds
+            Mostly used for testing or small demos
+            Not recommended for modern UI in production apps
+
+
+    alert() shows a message, confirm() asks for user confirmation, and prompt() takes input from the user.

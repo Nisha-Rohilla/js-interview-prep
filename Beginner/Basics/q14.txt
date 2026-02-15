@@ -1,0 +1,23 @@
+Q14) What is console.log() used for?
+
+Ans) 
+    console.log() is used to display output or messages in the browser’s console.
+    It helps developers debug code by checking values of variables, expressions, and program flow.
+
+
+    🔹 Example
+            let age = 22;
+            console.log(age);
+            
+            Output will be shown in the browser console.
+
+
+📌 Uses of console.log()
+
+    Debugging code
+    Checking variable values
+    Understanding program flow
+    Testing logic during development
+
+
+console.log() is used to print messages and values to the console for debugging purposes.

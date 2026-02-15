@@ -1,0 +1,6 @@
+Q6) What is the latest ES version you know?
+
+Ans) 
+    The latest ECMAScript version I know is ES6 and above (ES6+).
+    ES6 was a major update, and after that new features are released every year.
+    Recent versions include ES2023 / ES2024, which add performance and language improvements

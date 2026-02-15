@@ -1,0 +1,40 @@
+Q13) What is strict mode?
+
+Ans)
+    Strict mode is a special mode in JavaScript that helps write cleaner and safer code by enforcing stricter rules.
+    It helps catch common coding mistakes and prevents the use of unsafe features.
+
+
+    🔹 How do you enable strict mode?
+
+            By adding "use strict" at the beginning of a script or function.
+
+                "use strict";
+                x = 10; // ❌ Error: x is not declared
+
+    🔹 Example without strict mode
+                x = 10; // works (but bad practice)
+
+
+📌 Key Features of Strict Mode
+
+        Variables must be declared before use
+        Prevents use of duplicate parameter names
+        Disallows use of reserved keywords
+        this is undefined in functions (not window)
+        Makes debugging easier
+
+
+
+
+
+        ✅ Strict Mode vs Non-Strict Mode
+
+                Feature	                    Strict Mode	                                    Non-Strict Mode
+                
+                Variable declaration	    Must declare variables (let, var, const)	    Variables can be used without declaration
+                Silent errors	            Converted into real errors	                    Errors may fail silently
+                Duplicate parameters	    ❌ Not allowed	                              ✅ Allowed
+                Reserved keywords	        ❌ Cannot be used	                          Sometimes allowed
+                this keyword	            undefined in functions	                        Refers to window object
+                Debugging	                Easier	                                        Harder

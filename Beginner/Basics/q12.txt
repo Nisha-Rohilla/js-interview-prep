@@ -1,0 +1,37 @@
+Q12) What are reserved keywords?
+
+Ans) 
+    Reserved keywords are special words in JavaScript that have predefined meanings and cannot be used as variable, function, or class names.
+    They are reserved by the language to perform specific operations.
+
+
+    🔹 Examples of Reserved Keywords
+            Some common JavaScript reserved keywords are:
+
+                var
+                let
+                const
+                if
+                else
+                for
+                while
+                function
+                return
+                class
+                new
+                this
+                try
+                catch
+
+    ❌ Invalid Example
+             let for = 10; // ❌ Error: 'for' is a reserved keyword
+    ✅ Valid Example
+            let count = 10; // ✅ valid variable name
+
+
+    📌 Why are reserved keywords important?
+
+            They define the syntax of JavaScript
+            Prevent ambiguity in the language
+            Ensure proper code execution
+

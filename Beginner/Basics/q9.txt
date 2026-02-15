@@ -1,0 +1,12 @@
+Q9) What are variables?
+
+Ans)    
+    Variables are used to store data values that can be used and changed later in a program.
+    In JavaScript, variables act as containers for storing information such as numbers, strings, or objects.
+
+
+    JavaScript provides three ways to declare variables:
+
+            var – old way (function-scoped)
+            let – block-scoped, recommended 
+            const – block-scoped, value cannot be reassigned

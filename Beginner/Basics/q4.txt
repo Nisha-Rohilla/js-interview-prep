@@ -1,0 +1,34 @@
+Q4) What are the features of JavaScript?
+
+Ans)  
+        ✅ Features of JavaScript (Interview Answer)
+
+                High-level language
+                    JavaScript is easy to read and write, as it handles memory management automatically.
+
+                Interpreted & JIT compiled
+                    JavaScript runs in the browser using an interpreter with Just-In-Time compilation for better performance.
+
+                Dynamically typed
+                    Variable types are decided at runtime, so we don’t need to define data types explicitly.
+
+                Prototype-based Object-Oriented
+                    JavaScript uses prototypes instead of classical classes for object inheritance.
+
+                Event-driven
+                    It responds to user actions like clicks, keypresses, and form submissions.
+
+                Asynchronous programming support
+                    JavaScript supports callbacks, promises, and async/await for non-blocking operations.
+
+                Platform independent
+                    JavaScript runs on any browser and operating system.
+
+                Client-side & Server-side support
+                    It works on the client side (browser) and server side using Node.js.
+
+                Lightweight & fast
+                    JavaScript is lightweight and executes quickly in modern browsers.
+
+                Rich ecosystem & libraries
+                    It has a large ecosystem of frameworks and libraries like React, Angular, and Vue.
