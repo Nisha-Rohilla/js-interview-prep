@@ -1,0 +1,1 @@
+Q) What is lexical scope?
