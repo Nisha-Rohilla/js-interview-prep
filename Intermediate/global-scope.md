@@ -21,7 +21,7 @@ Ans)
                         console.log(age);
                         }
 
-                        showAge();
+                        showAge()
 
         🔍 Explanation (Code-based)
 
