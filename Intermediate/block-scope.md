@@ -23,10 +23,10 @@ Ans)
 
                 🔹 var is NOT Block Scoped
                         if (true) {
-                        var z = 30;
+                        var z = 40;
                         }
 
-                        console.log(z); // 30 (accessible outside block)
+                        console.log(z); // 40(accessible outside block)
 
         🔍 Explanation
 
