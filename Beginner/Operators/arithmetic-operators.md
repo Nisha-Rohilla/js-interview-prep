@@ -35,4 +35,4 @@ Ans)
         % gives remainder
         ++ increments by 1
         -- decrements by 1
-        ** raises powerr
+        ** raises power
