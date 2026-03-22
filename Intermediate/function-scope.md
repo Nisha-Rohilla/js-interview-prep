@@ -1,4 +1,4 @@
-Q) function-scope.md
+Q) What are the function-scope?
 
 Ans)
     Function scope means that variables declared inside a function are only accessible within that function and cannot be accessed outside.
