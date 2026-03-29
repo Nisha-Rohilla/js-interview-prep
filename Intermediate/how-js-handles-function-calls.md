@@ -1,0 +1,1 @@
+Q) How does JavaScript handle function calls internally?
